@@ -22,22 +22,16 @@ class heroi {
         switch(this.classe) {
             case "Guerreiro":
                 return "Espada";
-                break;
             case "Arqueiro":
                 return "Arco e flecha";
-                break;
             case "Mago":
                 return "Cajado";
-                break;
             case "Assassino":
                 return "Adaga";
-                break;
             case "Cavaleiro":
                 return "Lança";
-                break;
             default:
                 return "Arma desconhecida";
-                break;
         }
     }
 
