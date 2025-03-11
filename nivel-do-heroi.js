@@ -1,3 +1,14 @@
+/**
+ * --------------------------------------
+ *  Projeto: Nível do Herói
+ *  Autor: Maurício Argolo
+ *  Descrição: Este código utiliza o nível de experiência(XP) do herói para definir o seu nível em classe.
+ *  Data de Criação: 08/03/2025
+ *  Última Atualização: 10/03/2025
+ *  Versão: 1.0
+ * --------------------------------------
+ */
+
 let nome = "Conan"
 let xp = 9500
 let nivel = ""

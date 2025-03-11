@@ -1,3 +1,15 @@
+/**
+ * --------------------------------------
+ *  Projeto: Rank do Herói
+ *  Autor: Maurício Argolo
+ *  Descrição: Este código define o rank do herói com base na diferença entre vitórias e derrotas.
+ *  Subtraindo as derrotas das vitórias, quanto maior for o resultado, maior o rank do herói.
+ *  Data de Criação: 08/03/2025
+ *  Última Atualização: 10/03/2025
+ *  Versão: 1.0
+ * --------------------------------------
+ */
+
 // Matriz com nome do herói / vitórias / derrotas
 let campeoes = [
     ["Herói 01", 2450, 2349],
